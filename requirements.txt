@@ -1,0 +1,8 @@
+pandas
+numpy
+statsmodels
+prophet
+darts
+torch
+pytorch-lightning
+scikit-learn
